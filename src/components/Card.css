@@ -1,0 +1,4 @@
+.cardbg {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: saturate(180%) blur(10px);
+  }
